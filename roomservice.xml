@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="gh" fetch="git://github.com/sazan123" />
+  <project name="android_device_lenovo_wt86518" path="device/lenovo/wt86518" remote="gh" revision="mkn-mr1" />
+  <project name="android_vendor_lenovo_wt86518" path="vendor/lenovo/wt86518" remote="gh" revision="mkn-mr1" />
+  <project name="MoKee/android_device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="mokee" />
+  <project name="android_kernel_wingtech_wt86518" path="kernel/wingtech/wt86518" remote="gh" revision="mkn-mr1" />
+  <project name="MoKee/android_external_stlport" path="external/stlport" remote="mokee" />
+  <project name="MoKee/android_device_qcom_common" path="device/qcom/common" remote="mokee" />
+</manifest>
