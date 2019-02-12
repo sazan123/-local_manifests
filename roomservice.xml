@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-  <remote  name="sazan123"
-           fetch="https://github.com/sazan123" />
-
-  <project path="device/huawei/jimmy" name="android_device_huawei_jimmy" remote="sazan123" revision="twrp-7.1" />
+    <remote  name="sazan123"
+        fetch="https://github.com/sazan123" />
+    <project path="device/huawei/jimmy" name="android_device_huawei_jimmy" remote="sazan123" revision="cm-14.1" />
+    <project path="vendor/huawei/jimmy" name="android_vendor_huawei_jimmy" remote="sazan123" revision="cm-14.1" />
 </manifest>
